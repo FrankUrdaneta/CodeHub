@@ -1,0 +1,45 @@
+.menu-container {
+  padding: 0;
+}
+
+.menu-container .nav-link {
+  padding: 0.5rem;
+  color: #333;
+  border-bottom: 1px solid #ccc;
+}
+
+.menu-container .nav-link.active {
+  font-weight: bold;
+  background-color: transparent;
+  border-bottom: 1px solid #333;
+}
+
+.menu-container .nav-link:hover {
+  background-color: #f5f5f5;
+}
+
+/*estilos para cuadro de texto*/
+.code-block {
+  display: block;
+  background-color: #f5f5f5;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  overflow: auto;
+  justify-content: start;
+  align-items: start;
+}
+
+.code-block pre {
+  margin: 0;
+}
+
+.code-block code {
+  display: block;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 0.875rem;
+  color: #333;
+  white-space: pre-wrap;
+  word-break: break-word;
+  justify-content: start;
+  align-items: start;
+}
