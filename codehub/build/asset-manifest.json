@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FrankUrdaneta/CodeHub/static/css/main.c9548412.css",
+    "main.js": "/FrankUrdaneta/CodeHub/static/js/main.9ef57a70.js",
+    "static/media/bootstrap-icons.woff?": "/FrankUrdaneta/CodeHub/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/FrankUrdaneta/CodeHub/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/javascript.svg": "/FrankUrdaneta/CodeHub/static/media/javascript.dfadb9688101c224417c878dda8e00d8.svg",
+    "index.html": "/FrankUrdaneta/CodeHub/index.html",
+    "main.c9548412.css.map": "/FrankUrdaneta/CodeHub/static/css/main.c9548412.css.map",
+    "main.9ef57a70.js.map": "/FrankUrdaneta/CodeHub/static/js/main.9ef57a70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9548412.css",
+    "static/js/main.9ef57a70.js"
+  ]
+}
